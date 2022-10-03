@@ -1,0 +1,13 @@
+body {
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1 {
+    color: white;
+    background-color: black;
+}
+button {
+    color: white;
+    background-color: black;
+}
